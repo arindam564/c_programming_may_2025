@@ -5,9 +5,9 @@
 int v1,v2;
 int sum,sub,mul ;
 float div;
-printf("Enter The Value 1");
+printf("Enter The Value 1: ");
 scanf("%d ",&v1);
-printf("Enter The Value 2");
+printf("Enter The Value 2: ");
 scanf("%d ",&v2);
 sum = v1+ v2;
 sub = v1- v2;
